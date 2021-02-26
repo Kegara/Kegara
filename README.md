@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2>PASATIEMPOS</h2>
+<span>💻🎮⚔♟🧩🎲</span>
+<h2>SKILLS</h2>
+<img src="https://img.shields.io/static/v1?label=PHP&message=Desarrollo%20ligero&color=FFFFFF?style=plastic&logo=php"/><br>
+
+<h2>REDES</h2>
+<a href="https://www.linkedin.com/in/kevin-garc%C3%ADa-ramirez-38988a18a/"><img src="https://img.shields.io/static/v1?label= &message=LinkedIn&color=101010?style=for-the-badge&logo=LinkedIn&logoColor=blue"/></a>
+<br>
