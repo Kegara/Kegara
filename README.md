@@ -1,24 +1,52 @@
-### Hi there 👋
+# Hi, I'm Kevin 👋
 
-<!--
-**Kegara/Kegara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineer focused on building scalable systems, distributed architectures and real-world optimization solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2>PASATIEMPOS</h2>
-<span>💻🎮⚔♟🧩🎲</span>
-<h2>SKILLS</h2>
-<img src="https://img.shields.io/static/v1?label=PHP&message=Desarrollo%20ligero&color=FFFFFF?style=plastic&logo=php"/><br>
+## 🚀 What I do
 
-<h2>REDES</h2>
-<a href="https://www.linkedin.com/in/kevin-garc%C3%ADa-ramirez-38988a18a/"><img src="https://img.shields.io/static/v1?label= &message=LinkedIn&color=101010?style=for-the-badge&logo=LinkedIn&logoColor=blue"/></a>
-<br>
+- Design backend systems using **DDD, Clean Architecture and CQRS**
+- Build **distributed microservices** with event-driven patterns
+- Apply **optimization algorithms** (IPFP / RAS, LPT, Largest Remainder)
+- Work with **NestJS, Kafka, AWS SQS, GraphQL, gRPC**
+
+---
+
+## 🧠 Current focus
+
+- Distributed systems & scalability
+- Backend architecture
+- Performance & optimization
+- Expanding into **React / Next.js**
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- TypeScript, Node.js, NestJS
+- REST, GraphQL, gRPC
+- Kafka, AWS SQS
+
+**Databases**
+- MongoDB, SQL Server, MySQL
+
+**DevOps**
+- Docker, Kubernetes, AWS
+
+---
+
+## 📊 Highlight Project
+
+**Assignment Service**
+- Distributed **3000+ accounts per cycle**
+- Balanced workload across **14+ agents**
+- Implemented **IPFP / RAS** with convergence control
+- Production-ready system with real business impact
+
+---
+
+## 🤝 Let's connect
+
+- LinkedIn: https://www.linkedin.com/in/kegara
